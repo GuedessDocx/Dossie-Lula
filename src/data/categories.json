@@ -1,0 +1,10 @@
+[
+  { "id": "mensalao", "label": "Mensalão", "shortLabel": "01 · Mensalão" },
+  { "id": "petrobras", "label": "Petrobras & Lava Jato", "shortLabel": "02 · Petrobras" },
+  { "id": "familia", "label": "Investigações familiares", "shortLabel": "03 · Família" },
+  { "id": "aliancas", "label": "Alianças & Centrão", "shortLabel": "04 · Alianças" },
+  { "id": "contradicoes", "label": "Discurso & decisões", "shortLabel": "05 · Contradições" },
+  { "id": "economia", "label": "Economia & gastos", "shortLabel": "06 · Economia" },
+  { "id": "promessas", "label": "Promessas & resultados", "shortLabel": "07 · Promessas" },
+  { "id": "justica", "label": "Justiça & processos", "shortLabel": "08 · Justiça" }
+]

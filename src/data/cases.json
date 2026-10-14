@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ap-470-mensalao",
+    "number": "01",
+    "title": "Mensalão: fatos julgados, culpa individual",
+    "summary": "O STF julgou a AP 470 em 2012 e condenou réus. Lula não foi réu nessa ação.",
+    "category": "mensalao",
+    "date": "2005–2013",
+    "description": "A Ação Penal 470, conhecida como Mensalão, examinou acusações de compra de apoio político e outros crimes. O STF julgou 38 réus em 2012; houve condenações e absolvições individuais, com recursos e execuções que seguiram trajetórias diferentes. Em 2013, ao julgar recurso de Roberto Jefferson, o próprio STF registrou que a não inclusão de Lula no polo passivo já havia sido examinada. A proximidade partidária ou política não substitui uma decisão sobre a conduta de cada pessoa.",
+    "evidenceClassification": "Decisão judicial — julgamento penal",
+    "legalStatus": "O julgamento de mérito da AP 470 foi concluído. Os efeitos penais variaram por réu e por execução. Lula não foi acusado como réu nessa ação; este processo não é uma condenação dele.",
+    "sources": [
+      { "title": "STF: AP 470, julgamento e dimensão do processo", "publisher": "Supremo Tribunal Federal", "date": "08 out. 2018", "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=392162&ori=1", "kind": "Julgamento" },
+      { "title": "STF: recurso de Roberto Jefferson e questão da não inclusão de Lula", "publisher": "Supremo Tribunal Federal", "date": "15 ago. 2013", "url": "https://noticias.stf.jus.br/postsnoticias/recurso-de-roberto-jefferson-e-rejeitado-pelo-plenario/", "kind": "Decisão" },
+      { "title": "Consulta processual da AP 470", "publisher": "Supremo Tribunal Federal", "date": "Processo", "url": "https://portal.stf.jus.br/processos/listarProcessos.asp?classe=AP&numeroProcesso=470", "kind": "Autos" }
+    ],
+    "lastVerified": "2026-10-14",
+    "editorialNotes": "O nome do escândalo não transforma todos os integrantes do governo em réus. A ficha separa o que o STF julgou da associação política feita no debate público."
+  },
+  {
+    "id": "petrobras-lava-jato",
+    "number": "02",
+    "title": "Petrobras: o rombo não é atalho até Lula",
+    "summary": "A Lava Jato registrou acordos e devoluções bilionárias. Os totais divulgados pelo MPF têm escopo e data definidos.",
+    "category": "petrobras",
+    "date": "2014–2020",
+    "description": "A Operação Lava Jato investigou esquemas de corrupção relacionados a contratos e fornecedores da Petrobras, com processos contra pessoas e empresas, colaborações premiadas e acordos de leniência. Em publicação de 2020, o MPF informou que R$ 4,3 bilhões já haviam sido destinados ou devolvidos por diferentes vias e que compromissos de restituição superavam R$ 13 bilhões. Em outra transferência autorizada pela Justiça, R$ 681 milhões de um acordo com a Braskem foram destinados à Petrobras e à União. São números reportados pelo MPF em momentos específicos, não uma auditoria única de todo o prejuízo nem prova automática contra qualquer pessoa citada em discussões sobre a operação.",
+    "evidenceClassification": "Registros de investigação e dados institucionais do MPF",
+    "legalStatus": "A operação reuniu investigações e ações distintas, com resultados judiciais variados. Os totais aqui são declarações institucionais com data de referência; não resumem o status de todos os processos.",
+    "sources": [
+      { "title": "Lava Jato: valores efetivamente devolvidos e compromissos reportados", "publisher": "Ministério Público Federal", "date": "2020", "url": "https://combateacorrupcao.mpf.mp.br/feeder_novo/lava-jato/b77be3bd7946a707b3da44745c4e7ba1", "kind": "Balanço institucional" },
+      { "title": "Justiça autoriza transferência de R$ 681 milhões de acordo com a Braskem", "publisher": "Ministério Público Federal", "date": "2020", "url": "https://combateacorrupcao.mpf.mp.br/feeder_novo/lava-jato/d127339465399acb47893640ba8ef0d2", "kind": "Acordo e destinação" }
+    ],
+    "lastVerified": "2026-10-14",
+    "editorialNotes": "R$ recuperados, valores prometidos em acordos e prejuízo estimado são medidas diferentes. Esta ficha não atribui automaticamente os crimes investigados a Lula."
+  },
+  {
+    "id": "mapa-da-mina-familia",
+    "number": "03",
+    "title": "Mapa da Mina: investigação encerrada, não condenação",
+    "summary": "A apuração sobre negócios ligados a um filho de Lula foi arquivada pela Justiça em 2022, após pedido do MPF.",
+    "category": "familia",
+    "date": "2019–2022",
+    "description": "A fase da Lava Jato chamada Mapa da Mina investigou suspeitas sobre pagamentos da Oi/Telemar a empresas relacionadas ao empresário Fábio Luís Lula da Silva. A investigação não equivale a uma condenação. Em dezembro de 2021, o MPF em São Paulo pediu o arquivamento e apontou que, retirados elementos alcançados pelas decisões do STF sobre a suspeição de Sergio Moro, faltavam indícios suficientes de crime para prosseguir. Em janeiro de 2022, a Justiça Federal determinou o arquivamento do inquérito e de procedimentos dependentes. O pai do investigado não se torna parte ou responsável por parentesco.",
+    "evidenceClassification": "Investigação encerrada por decisão judicial; alegações não julgadas em condenação",
+    "legalStatus": "O inquérito Mapa da Mina foi arquivado pela Justiça Federal em janeiro de 2022, após manifestação do MPF. O arquivamento deste inquérito não é uma condenação nem decide automaticamente outros procedimentos sem relação processual comprovada.",
+    "sources": [
+      { "title": "MPF pede arquivamento e relata insuficiência de elementos remanescentes", "publisher": "Folha de S.Paulo — reportagem sobre manifestação do MPF", "date": "14 dez. 2021", "url": "https://www1.folha.uol.com.br/amp/colunas/monicabergamo/2021/12/mpf-pede-arquivamento-de-caso-que-liga-lulinha-a-supostos-repasses-ilegais-da-oi.shtml", "kind": "Reportagem" },
+      { "title": "Decisão de arquivamento do inquérito Mapa da Mina (cópia do documento judicial)", "publisher": "Justiça Federal — decisão reproduzida", "date": "17 jan. 2022", "url": "https://static.poder360.com.br/2022/01/Lulinha-Arquivamento-Mapa-da-Mina-Lava-Jato-18-jan-2021.pdf", "kind": "Decisão" },
+      { "title": "STF: extensão da suspeição de Moro a processos contra Lula", "publisher": "Supremo Tribunal Federal", "date": "24 jun. 2021", "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5581966", "kind": "Decisão relacionada" }
+    ],
+    "lastVerified": "2026-10-14",
+    "editorialNotes": "O recorte é a existência e o encerramento de uma investigação. Alegações da fase policial não são apresentadas como culpa, e nenhuma conduta é atribuída a Lula por parentesco."
+  },
+  {
+    "id": "ministerios-centrao",
+    "number": "04",
+    "title": "Centrão: a governabilidade ganhou ministérios",
+    "summary": "Em 2023, Lula empossou André Fufuca, do PP, e Silvio Costa Filho, do Republicanos, no primeiro escalão.",
+    "category": "aliancas",
+    "date": "set. 2023",
+    "description": "Em 13 de setembro de 2023, André Fufuca assumiu o Ministério do Esporte e Silvio Costa Filho, o Ministério de Portos e Aeroportos. Fufuca era deputado do PP; Costa Filho, do Republicanos. Os dois registros oficiais confirmam nomeação, partido e data. A leitura de que isso expressa uma coalizão pragmática é uma interpretação política sobre a montagem da base no Congresso — não evidência de corrupção ou de um acordo ilícito específico.",
+    "evidenceClassification": "Ato público de nomeação e filiação partidária",
+    "legalStatus": "Nomeações ministeriais documentadas. Não há alegação criminal nesta ficha; “Centrão” é um rótulo político, não uma categoria jurídica.",
+    "sources": [
+      { "title": "André Fufuca (PP-MA) toma posse como ministro do Esporte", "publisher": "Ministério do Esporte", "date": "14 set. 2023", "url": "https://www.gov.br/esporte/pt-br/noticias-e-conteudos/esporte/andre-fufuca-toma-posse-como-ministro-do-esporte", "kind": "Nomeação" },
+      { "title": "Silvio Costa Filho assume o Ministério de Portos e Aeroportos", "publisher": "Ministério de Portos e Aeroportos", "date": "13 set. 2023", "url": "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2023/09/presidente-lula-da-posse-a-silvio-costa-filho-no-ministerio-de-portos-e-aeroportos", "kind": "Nomeação" },
+      { "title": "Biografia parlamentar de Silvio Costa Filho (Republicanos-PE)", "publisher": "Câmara dos Deputados", "date": "Legislatura 2023–2027", "url": "https://www.camara.leg.br/deputados/204425/biografia", "kind": "Registro partidário" },
+      { "title": "Ficha parlamentar de André Fufuca (PP-MA)", "publisher": "Câmara dos Deputados", "date": "Legislatura 2023–2027", "url": "https://www.camara.leg.br/deputados/178882", "kind": "Registro partidário" }
+    ],
+    "lastVerified": "2026-10-14",
+    "editorialNotes": "O título usa ironia sobre a conhecida lógica de coalizão presidencial. A descrição fica no verificável: partidos, nomeações e cargos."
+  },
+  {
+    "id": "teto-gastos-regime-fiscal",
+    "number": "05",
+    "title": "O teto caiu. O limite de gasto ficou.",
+    "summary": "O programa de 2022 prometia revogar o teto; em 2023, a regra foi substituída por um novo regime fiscal.",
+    "category": "contradicoes",
+    "date": "2022–2023",
+    "description": "As diretrizes do programa de governo de 2022 propuseram revogar o teto de gastos. Em agosto de 2023, o Congresso aprovou a Lei Complementar 200, que instituiu o Regime Fiscal Sustentável em substituição à regra anterior. A lei deixou de usar o teto constitucional antigo, mas criou outra estrutura que limita o crescimento das despesas em relação às receitas. Portanto, houve substituição de regra fiscal, não ausência de limites para gasto. A comparação é entre uma promessa de campanha e a solução legislativa adotada; não é, sozinha, prova de uma quebra literal de compromisso.",
+    "evidenceClassification": "Comparação editorial entre programa de campanha e legislação",
+    "legalStatus": "A Lei Complementar 200/2023 instituiu o regime fiscal sustentável. A regra está sujeita a alterações legislativas posteriores; confira o texto legal vigente na fonte.",
+    "sources": [
+      { "title": "Programa de Governo do PT (2022), documento integral", "publisher": "Fundação Perseu Abramo", "date": "2022", "url": "https://fpabramo.org.br/timeline/programa-de-governo-do-pt-2022/", "kind": "Programa eleitoral" },
+      { "title": "Lei Complementar nº 200/2023 — Regime Fiscal Sustentável", "publisher": "Senado Federal", "date": "30 ago. 2023", "url": "https://legis.senado.gov.br/norma/37553820", "kind": "Legislação" },
+      { "title": "Exposição oficial sobre a proposta do novo arcabouço fiscal", "publisher": "Secretaria de Comunicação Social", "date": "2023", "url": "https://www.gov.br/secom/pt-br/assuntos/obrasilvoltou/desenvolvimento/apresentacao-de-proposta-de-novo-arcabouco-fiscal", "kind": "Contexto oficial" }
+    ],
+    "lastVerified": "2026-10-14",
+    "editorialNotes": "“Teto” e “regime fiscal” não são sinônimos jurídicos. O efeito retórico cabe no título; a descrição preserva a diferença entre os dois modelos."
+  },
+  {
+    "id": "divida-pib-2026",
+    "number": "06",
+    "title": "Dívida pública: o placar tem data e denominador",
+    "summary": "Em julho de 2026, a dívida bruta do governo geral atingiu 82,5% do PIB, segundo o Banco Central.",
+    "category": "economia",
+    "date": "jul. 2026",
+    "description": "O Banco Central informou que a Dívida Bruta do Governo Geral chegou a 82,5% do PIB — R$ 10,9 trilhões — em julho de 2026. Esse conceito inclui governo federal, INSS, estados e municípios. O BC atribuiu o aumento acumulado de 3,9 pontos percentuais no ano principalmente aos juros nominais (5,7 p.p.) e às emissões líquidas (1,5 p.p.), parcialmente compensados pelo crescimento do PIB nominal e outros fatores. É um retrato fiscal datado; dívida bruta não é sinônimo de gasto anual, e o dado isolado não prova a causa política de cada variação.",
+    "evidenceClassification": "Estatística fiscal oficial — Banco Central",
+    "legalStatus": "Não se aplica. Indicador macroeconômico mensal, sujeito a revisão e a novos resultados.",
+    "sources": [
+      { "title": "Estatísticas fiscais — dívida bruta em julho de 2026", "publisher": "Banco Central do Brasil", "date": "jul. 2026", "url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais?lead=false-WECONT", "kind": "Série e nota fiscal" },
+      { "title": "Conceitos de dívida bruta e dívida líquida", "publisher": "Banco Central do Brasil", "date": "Metodologia", "url": "https://dadosabertos.bcb.gov.br/dataset/4536-divida-liquida-do-governo-geral--pib", "kind": "Metodologia" }
+    ],
+    "lastVerified": "2026-10-14",
+    "editorialNotes": "O percentual de dívida usa o PIB como denominador. Para avaliar a gestão fiscal, observe a série, juros, resultado primário, crescimento e composição — não só o número de uma manchete."
+  },
+  {
+    "id": "bolsa-familia-pobreza",
+    "number": "07",
+    "title": "Bolsa Família voltou. A pobreza também merece contexto.",
+    "summary": "A lei recriou o programa em 2023; o IBGE mediu queda da pobreza em 2024, sem atribuir o resultado a uma causa única.",
+    "category": "promessas",
+    "date": "2022–2024",
+    "description": "O programa de governo de 2022 propôs reconstruir e fortalecer o Bolsa Família. A Lei 14.601/2023 instituiu novamente o programa e substituiu o Auxílio Brasil. Em dados de 2024, o IBGE registrou queda da proporção da população abaixo da linha de pobreza de 27,3% em 2023 para 23,1%, e de 4,4% para 3,5% na extrema pobreza, pelos parâmetros apresentados na Síntese de Indicadores Sociais. São resultados nacionais observados no período; o indicador não isola o efeito de uma política ou governo, e sua interpretação depende da linha de pobreza e da metodologia usada.",
+    "evidenceClassification": "Lei federal e indicador social oficial",
+    "legalStatus": "A Lei 14.601/2023 instituiu o programa. Não se aplica status judicial ao indicador; as estatísticas têm metodologia e período de referência próprios.",
+    "sources": [
+      { "title": "Programa de Governo do PT (2022), compromisso com políticas sociais", "publisher": "Fundação Perseu Abramo", "date": "2022", "url": "https://fpabramo.org.br/timeline/programa-de-governo-do-pt-2022/", "kind": "Programa eleitoral" },
+      { "title": "Lei nº 14.601/2023 — instituição do Bolsa Família", "publisher": "Presidência da República", "date": "19 jun. 2023", "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14601.htm", "kind": "Legislação" },
+      { "title": "Síntese de Indicadores Sociais: 8,6 milhões saíram da pobreza entre 2023 e 2024", "publisher": "IBGE", "date": "03 dez. 2025", "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/45344-8-6-milhoes-de-pessoas-sairam-da-pobreza-entre-2023-e-2024", "kind": "Estatística" }
+    ],
+    "lastVerified": "2026-10-14",
+    "editorialNotes": "Quando o indicador melhora, cabe reconhecer a melhora; atribuir toda a variação a um único programa exige evidência causal que esta ficha não afirma ter."
+  },
+  {
+    "id": "triplex-decisoes-judiciais",
+    "number": "08",
+    "title": "Triplex: condenação anulada, caso arquivado",
+    "summary": "O STF anulou as decisões de Curitiba por incompetência e reconheceu a suspeição de Moro; a Justiça do DF arquivou o caso em 2022.",
+    "category": "justica",
+    "date": "2021–2022",
+    "description": "Em 2021, o STF confirmou que a 13ª Vara Federal de Curitiba não tinha competência para julgar os processos de Lula ligados ao triplex, sítio e Instituto Lula; as decisões da vara foram anuladas. Em julgamento separado, a Segunda Turma do STF reconheceu a suspeição de Sergio Moro no processo do triplex e anulou os atos decisórios dele. Em janeiro de 2022, a Justiça Federal do Distrito Federal arquivou o caso do triplex após pedido do MPF que apontou prescrição. Essas decisões não devem ser resumidas como condenação vigente nem como absolvição de mérito: a condenação perdeu efeito processual e o caso terminou por prescrição, sem novo julgamento do mérito.",
+    "evidenceClassification": "Decisões judiciais — competência, suspeição e arquivamento",
+    "legalStatus": "As condenações proferidas em Curitiba foram anuladas. O processo do triplex foi arquivado pela Justiça Federal do DF em 27 de janeiro de 2022 por prescrição. Não há condenação válida decorrente daquele julgamento anulado; o arquivamento não foi uma absolvição após novo julgamento do mérito.",
+    "sources": [
+      { "title": "STF confirma a anulação das condenações de Lula na Lava Jato", "publisher": "Supremo Tribunal Federal", "date": "15 abr. 2021", "url": "https://noticias.stf.jus.br/postsnoticias/stf-confirma-anulacao-de-condenacoes-do-ex-presidente-lula-na-lava-jato/", "kind": "Decisão plenária" },
+      { "title": "HC 164.493 — processo sobre a suspeição de Sergio Moro", "publisher": "Supremo Tribunal Federal", "date": "23 mar. 2021", "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5581966", "kind": "Processo" },
+      { "title": "Justiça Federal do DF arquiva processo do triplex", "publisher": "JOTA", "date": "28 jan. 2022", "url": "https://www.jota.info/justica/justica-do-df-arquiva-processo-contra-lula-sobre-triplex-do-guaruja", "kind": "Reportagem jurídica" }
+    ],
+    "lastVerified": "2026-10-14",
+    "editorialNotes": "Anulação por incompetência e suspeição não é decisão de inocência sobre os fatos. Prescrição encerra a possibilidade de punição no processo, sem substituir julgamento do mérito."
+  }
+]
